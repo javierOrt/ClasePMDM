@@ -19,4 +19,23 @@
         app:showAsAction="ifRoom"
         />
 
+    <item android:title="Opcion 5"
+        android:id="@+id/menu_op5"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:title="Por defecto">
+        <menu>
+            <item android:title="Opcion 6"
+                android:id="@+id/menu_op6"
+                />
+
+            <item android:title="Opcion 7"
+                android:id="@+id/menu_op7"
+                />
+        </menu>
+    </item>
+
+
+
 </menu>
