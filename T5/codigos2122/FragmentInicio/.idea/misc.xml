@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/javit/Desktop/DAM2/repositorios/ClasePMDM/Clase/T5/codigos2122/FragmentInicio/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/javit/Desktop/DAM2/repositorios/ClasePMDM/Clase/T5/codigos2122/FragmentInicio/app/src/main/res/layout/estatico_layout.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/javit/Desktop/DAM2/repositorios/ClasePMDM/Clase/T5/codigos2122/FragmentInicio/app/src/main/res/layout/fragment_dinamico_dos_layout.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/javit/Desktop/DAM2/repositorios/ClasePMDM/Clase/T5/codigos2122/FragmentInicio/app/src/main/res/layout/fragment_dinamico_uno_layout.xml" value="0.17481884057971014" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/estatico_layout.xml" value="0.2526041666666667" />
         <entry key="app/src/main/res/layout/fragment_dinamico_dos_layout.xml" value="0.335" />
